@@ -38,5 +38,7 @@ python3 main.py # or python main.py
 ## References
 
 [1] GeeksforGeeks, “OpenCV Python Program for Vehicle Detection in Video Frame,” 2023. [Online]. Available: https://www.geeksforgeeks.org/python/opencv-python-program-vehicle-detection-video-frame/.
+
 [2] A. Sobral, “Vehicle Detection Haar Cascades,” GitHub repository, 2016. [Online]. Available: https://github.com/andrewssobral/vehicle_detection_haarcascades.
+
 [3] Pixabay, “Traffic Car Highway Street Video,” 2023. [Online]. Available: https://pixabay.com/videos/traffic-car-highway-street-27260/.
